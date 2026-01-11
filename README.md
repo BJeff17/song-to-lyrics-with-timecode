@@ -1,1 +1,1 @@
-# -song-to-lyrics-with-timecode
+# song-to-lyrics-with-timecode
