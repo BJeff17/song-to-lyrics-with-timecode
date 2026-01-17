@@ -1,2 +1,2 @@
 # song-to-lyrics-with-timecode
-I think I'm gonna use pydub split on silence functionality to deliver a really qualitative transcription with accurate timestamp.
+I'm using wisper tiny to do that the hardest part is to sync everythings.
